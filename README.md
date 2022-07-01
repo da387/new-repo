@@ -12,3 +12,5 @@ for i in x:
     a = True
 if not a:
     print("didnt found the number")
+    
+ // the code ends here
